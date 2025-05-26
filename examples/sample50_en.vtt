@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Hello, world!
+
+00:00:05.000 --> 00:00:10.000
+This is a sample VTT file.
+
+00:00:10.000 --> 00:00:15.000
+This file contains 50 subtitles.
+
+00:00:15.000 --> 00:00:20.000
+VTT files are used to display subtitles for videos.
+
+00:00:20.000 --> 00:00:25.000
+It's a combination of timestamps and text.
+
+00:00:25.000 --> 00:00:30.000
+WebVTT stands for Web Video Text Tracks.
+
+00:00:30.000 --> 00:00:35.000
+It is used for HTML5 video subtitles.
+
+00:00:35.000 --> 00:00:40.000
+It can be created in a simple text format.
+
+00:00:40.000 --> 00:00:45.000
+Each subtitle has a start time and an end time.
+
+00:00:45.000 --> 00:00:50.000
+Subtitles are displayed in the video player.
+
+00:00:50.000 --> 00:00:55.000
+They help improve accessibility.
+
+00:00:55.000 --> 00:01:00.000
+They convey content to viewers with hearing impairments.
+
+00:01:00.000 --> 00:01:05.000
+They also support understanding of foreign languages.
+
+00:01:05.000 --> 00:01:10.000
+Subtitles can also be used for translations.
+
+00:01:10.000 --> 00:01:15.000
+Content can be understood even in environments where audio cannot be heard.
+
+00:01:15.000 --> 00:01:20.000
+They also help with search engine optimization.
+
+00:01:20.000 --> 00:01:25.000
+This is because they can express video content in text.
+
+00:01:25.000 --> 00:01:30.000
+Subtitle files can be easily edited.
+
+00:01:30.000 --> 00:01:35.000
+Just open them in a text editor and make modifications.
+
+00:01:35.000 --> 00:01:40.000
+The format is very simple.
+
+00:01:40.000 --> 00:01:45.000
+It supports various languages.
+
+00:01:45.000 --> 00:01:50.000
+It supports multiple languages including Japanese, English, and Chinese.
+
+00:01:50.000 --> 00:01:55.000
+Subtitle styles can also be customized.
+
+00:01:55.000 --> 00:02:00.000
+You can change the font, size, color, etc.
+
+00:02:00.000 --> 00:02:05.000
+Position adjustment is also possible.
+
+00:02:05.000 --> 00:02:10.000
+Subtitles are also effective for educational purposes.
+
+00:02:10.000 --> 00:02:15.000
+They are useful for language learning.
+
+00:02:15.000 --> 00:02:20.000
+You can practice listening and reading comprehension simultaneously.
+
+00:02:20.000 --> 00:02:25.000
+They are also effective for understanding technical terms.
+
+00:02:25.000 --> 00:02:30.000
+Technical content can be confirmed in text.
+
+00:02:30.000 --> 00:02:35.000
+There are also dedicated tools for creating subtitles.
+
+00:02:35.000 --> 00:02:40.000
+Services with automatic generation features are increasing.
+
+00:02:40.000 --> 00:02:45.000
+Accuracy has improved due to advances in speech recognition technology.
+
+00:02:45.000 --> 00:02:50.000
+Manual correction is still important.
+
+00:02:50.000 --> 00:02:55.000
+Accurate subtitles enhance the viewer experience.
+
+00:02:55.000 --> 00:03:00.000
+Inaccurate subtitles can lead to misunderstandings.
+
+00:03:00.000 --> 00:03:05.000
+Timing adjustment is also an important task.
+
+00:03:05.000 --> 00:03:10.000
+It needs to match the speaker's statements.
+
+00:03:10.000 --> 00:03:15.000
+Subtitles also function as metadata for videos.
+
+00:03:15.000 --> 00:03:20.000
+They can also be used for chapter or section breaks.
+
+00:03:20.000 --> 00:03:25.000
+It is also possible to prepare multiple subtitle tracks.
+
+00:03:25.000 --> 00:03:30.000
+You can provide subtitles in different languages and detail levels.
+
+00:03:30.000 --> 00:03:35.000
+It is now possible to add subtitles to live broadcasts.
+
+00:03:35.000 --> 00:03:40.000
+Real-time subtitle generation technology is developing.
+
+00:03:40.000 --> 00:03:45.000
+VTT files can be easily integrated into HTML.
+
+00:03:45.000 --> 00:03:50.000
+Just specify it with the track tag in the video element.
+
+00:03:50.000 --> 00:03:55.000
+Subtitles increase the value of video content.
+
+00:03:55.000 --> 00:04:00.000
+You can reach more viewers.
+
+00:04:00.000 --> 00:04:05.000
+This VTT file shows 50 subtitle examples.

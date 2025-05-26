@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Ahoj, světe!
+
+00:00:05.000 --> 00:00:10.000
+Toto je ukázkový VTT soubor.
+
+00:00:10.000 --> 00:00:15.000
+Tento soubor obsahuje 50 titulků.
+
+00:00:15.000 --> 00:00:20.000
+VTT soubory se používají k zobrazení titulků pro videa.
+
+00:00:20.000 --> 00:00:25.000
+Je to kombinace časových značek a textu.
+
+00:00:25.000 --> 00:00:30.000
+WebVTT znamená Web Video Text Tracks.
+
+00:00:30.000 --> 00:00:35.000
+Používá se pro titulky HTML5 videí.
+
+00:00:35.000 --> 00:00:40.000
+Lze jej vytvořit v jednoduchém textovém formátu.
+
+00:00:40.000 --> 00:00:45.000
+Každý titulek má čas začátku a čas konce.
+
+00:00:45.000 --> 00:00:50.000
+Titulky se zobrazují v přehrávači videa.
+
+00:00:50.000 --> 00:00:55.000
+Pomáhají zlepšit přístupnost.
+
+00:00:55.000 --> 00:01:00.000
+Předávají obsah divákům se sluchovým postižením.
+
+00:01:00.000 --> 00:01:05.000
+Také podporují porozumění cizím jazykům.
+
+00:01:05.000 --> 00:01:10.000
+Titulky lze také použít pro překlady.
+
+00:01:10.000 --> 00:01:15.000
+Obsah lze pochopit i v prostředích, kde nelze slyšet zvuk.
+
+00:01:15.000 --> 00:01:20.000
+Také pomáhají s optimalizací pro vyhledávače.
+
+00:01:20.000 --> 00:01:25.000
+Je to proto, že mohou vyjádřit obsah videa v textu.
+
+00:01:25.000 --> 00:01:30.000
+Soubory s titulky lze snadno upravovat.
+
+00:01:30.000 --> 00:01:35.000
+Stačí je otevřít v textovém editoru a provést úpravy.
+
+00:01:35.000 --> 00:01:40.000
+Formát je velmi jednoduchý.
+
+00:01:40.000 --> 00:01:45.000
+Podporuje různé jazyky.
+
+00:01:45.000 --> 00:01:50.000
+Podporuje více jazyků včetně japonštiny, angličtiny a čínštiny.
+
+00:01:50.000 --> 00:01:55.000
+Styly titulků lze také přizpůsobit.
+
+00:01:55.000 --> 00:02:00.000
+Můžete změnit písmo, velikost, barvu atd.
+
+00:02:00.000 --> 00:02:05.000
+Možná je také úprava pozice.
+
+00:02:05.000 --> 00:02:10.000
+Titulky jsou také účinné pro vzdělávací účely.
+
+00:02:10.000 --> 00:02:15.000
+Jsou užitečné pro výuku jazyků.
+
+00:02:15.000 --> 00:02:20.000
+Můžete současně procvičovat poslech a porozumění čtenému textu.
+
+00:02:20.000 --> 00:02:25.000
+Jsou také účinné pro porozumění technickým termínům.
+
+00:02:25.000 --> 00:02:30.000
+Technický obsah lze potvrdit v textu.
+
+00:02:30.000 --> 00:02:35.000
+Existují také specializované nástroje pro vytváření titulků.
+
+00:02:35.000 --> 00:02:40.000
+Přibývá služeb s funkcemi automatického generování.
+
+00:02:40.000 --> 00:02:45.000
+Přesnost se zlepšila díky pokrokům v technologii rozpoznávání řeči.
+
+00:02:45.000 --> 00:02:50.000
+Ruční korekce je stále důležitá.
+
+00:02:50.000 --> 00:02:55.000
+Přesné titulky zlepšují divácký zážitek.
+
+00:02:55.000 --> 00:03:00.000
+Nepřesné titulky mohou vést k nedorozuměním.
+
+00:03:00.000 --> 00:03:05.000
+Úprava načasování je také důležitým úkolem.
+
+00:03:05.000 --> 00:03:10.000
+Musí odpovídat prohlášením mluvčího.
+
+00:03:10.000 --> 00:03:15.000
+Titulky také fungují jako metadata pro videa.
+
+00:03:15.000 --> 00:03:20.000
+Mohou být také použity pro rozdělení kapitol nebo sekcí.
+
+00:03:20.000 --> 00:03:25.000
+Je také možné připravit více titulkových stop.
+
+00:03:25.000 --> 00:03:30.000
+Můžete poskytnout titulky v různých jazycích a úrovních detailu.
+
+00:03:30.000 --> 00:03:35.000
+Nyní je možné přidat titulky k živým přenosům.
+
+00:03:35.000 --> 00:03:40.000
+Vyvíjí se technologie generování titulků v reálném čase.
+
+00:03:40.000 --> 00:03:45.000
+VTT soubory lze snadno integrovat do HTML.
+
+00:03:45.000 --> 00:03:50.000
+Stačí je specifikovat pomocí tagu track v elementu video.
+
+00:03:50.000 --> 00:03:55.000
+Titulky zvyšují hodnotu video obsahu.
+
+00:03:55.000 --> 00:04:00.000
+Můžete oslovit více diváků.
+
+00:04:00.000 --> 00:04:05.000
+Tento VTT soubor ukazuje 50 příkladů titulků.
